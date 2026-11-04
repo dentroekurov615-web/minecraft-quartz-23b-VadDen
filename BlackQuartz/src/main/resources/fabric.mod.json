@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "black-quartz",
+  "version": "${version}",
+  "name": "Кварц Черный",
+  "description": "Проект команды RobloxTOP",
+  "authors": [
+    "RobloxTOP"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/black-quartz/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.robloxtop.BlackQuartzMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
