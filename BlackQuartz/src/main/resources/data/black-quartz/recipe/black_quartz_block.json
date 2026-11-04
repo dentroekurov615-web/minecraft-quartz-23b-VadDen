@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "QQ",
+    "QQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "black-quartz:black_quartz_shard"
+    }
+  },
+  "result": {
+    "id": "black-quartz:black_quartz_block",
+    "count": 1
+  }
+}

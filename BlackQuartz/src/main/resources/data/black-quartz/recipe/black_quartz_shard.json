@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "black-quartz:black_quartz_block"
+    }
+  ],
+  "result": {
+    "id": "black-quartz:black_quartz_shard",
+    "count": 4
+  }
+}
