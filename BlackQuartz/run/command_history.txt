@@ -1,0 +1,9 @@
+/give @s black-quartz:black_quartz_block
+/gamemode survival
+/give @s minecraft:quartz 4
+/give @s black-quartz:black_quartz_shard 4
+/time set day
+/gamemode creative
+/setblock ^ ^ ^2 black-quartz:black_quartz_block
+/tp @s 26.5 96 -20.5 180 45
+/tp @s 26.5 96 -20.5 0 -30
